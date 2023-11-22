@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hello! 👋 I'm Vishwanath J</h1>
-<h3 align="center">Turning Data into Insights to Drive Informed Decisions</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 
 <!-- Animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
@@ -34,7 +34,7 @@
 - 📫 Reach me at **vishwanathj2525@gmail.com**
 
 <!-- ⚡ Fun Tidbit -->
-- ⚡ Fun fact: I love finding hidden data treasures and turning them into useful insights!
+- ⚡ Fun fact: **Data analysts are like  detectives, deciphering stories hidden within data in the digital world. They use data as their evidence and statistical tools as their magnifying glasses to uncover valuable insights and trends, helping organizations make informed decisions.** 🔍📊🕵️‍♂️
 
 
 ## 🌐 Connect with Me:
